@@ -1,0 +1,18 @@
+{
+	"entries": [{
+		
+
+		"questions":"what is your name?",
+		"answers":"[bishoy,pierre,kiro]",
+		"correctAnswer":"pierre",
+        "explanation":"howa kda"
+    },
+    {
+		"questions":"what is your age?",
+		"answers":"[24,23,20]",
+		"correctAnswer":"24",	
+        "explanation":"howa kda"
+    }]
+}
+
+ 
